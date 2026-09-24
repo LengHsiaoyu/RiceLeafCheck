@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: rice-leaf-server
+  profiles:
+    active: dev
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+server:
+  port: 8080
+
+app:
+  image:
+    base-dir: ./uploads
+    thumb-width: 300
+    thumb-height: 400

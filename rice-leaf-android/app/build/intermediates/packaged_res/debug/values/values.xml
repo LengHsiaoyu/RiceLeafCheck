@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green_light">#FF81C784</color>
+    <color name="green_primary">#FF2E7D32</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">水稻叶片病害检查</string>
+    <string name="tab_camera">拍照</string>
+    <string name="tab_data">数据</string>
+    <string name="tab_settings">设置</string>
+    <style name="Theme.RiceLeaf" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
